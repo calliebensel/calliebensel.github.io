@@ -1,5 +1,10 @@
 p {
 color: purple
 }
-
+body {
+  height: 100%;
+  margin: 10;
+  width: 100%;
+  
+}
 
