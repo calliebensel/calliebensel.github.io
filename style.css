@@ -3,8 +3,9 @@ color: purple
 }
 body {
   height: 100%;
-  margin: 10%;
+  margin: 8%;
   width: 100%;
-  
+  }
+h4 {
+  text-align: left;
 }
-
