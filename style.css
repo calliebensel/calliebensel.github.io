@@ -11,13 +11,13 @@ body {
 	width: 1200px;
 	margin: 0 auto;
 }
-.half-width {
-	width: 600px;
+.left-half {
+	width: 400px;
 	margin: 0 auto;
 	float: left;
 }
-.third-width {
-	width: 400px;
+.right-half {
+	width: 800px;
 	margin: 0 auto;
 	float: right;
 	
