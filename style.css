@@ -3,7 +3,6 @@
 body {
   font-family: 'Lora', serif;
   color: black;
-  border: solid;
 
 }
 
@@ -25,7 +24,7 @@ body {
 /***** Header *****/
 header {
 	height: 800px;
-	background: url("<img src="https://c5.staticflickr.com/1/398/18165341100_a2f44390d1_z.jpg")
+	background: url("https://c5.staticflickr.com/1/398/18165341100_a2f44390d1_z.jpg" width="640" height="427" alt="IMG_2865")
 	background-size: cover;
 	
 
