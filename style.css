@@ -11,15 +11,15 @@ body {
 	width: 1200px;
 	margin: 0 auto;
 }
-.left-half {
-	width: 200px;
+.half-width {
+	width: 600px;
 	margin: 0 auto;
 	float: left;
 }
-.right-half {
-	width: 800px;
+.third-width {
+	width: 400px;
 	margin: 0 auto;
-	float: right;
+	float: left;
 	
 /***** Header *****/
 header {
