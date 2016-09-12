@@ -10,14 +10,18 @@ body {
 	margin: 0 auto;
 }
 .half-width {
-	width: 200px 800px;
+	width: 800px;
 	margin: 0 auto;
 	float: left;
 }
+.third-width {
+	width: 200px;
+	margin: 0 auto;
+	float: left;
 	
 /***** Header *****/
 header {
 	height: 800px;
-	background: url('../img/header_pic.png');
+	background: url();
 	background-size: cover;
 }
