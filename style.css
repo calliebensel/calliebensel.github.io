@@ -1,18 +1,7 @@
+/***** Base Styles *****/
+
 body {
-  height: 100%;
-  margin: 10%;
-  width: 100%;
-  font-family: Palatino, 'Palatino Linotype', serif;
-  }
-  h2 {
-    text-align: left;
-  }
-h4 {
-  text-align: left;
+  font-family: 'Lora', serif;
 }
-h3 {
-  text-align: left;
-}
-h5 {
-  text-align: left;
-}
+
+/***** GRID *****/
