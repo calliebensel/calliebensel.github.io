@@ -12,7 +12,8 @@ body {
 	margin: 0 auto;
 }
 .half-width {
-	width: 600px;
+	left: 400px;
+	right: 800px;
 	margin: 0 auto;
 	float: left;
 }
