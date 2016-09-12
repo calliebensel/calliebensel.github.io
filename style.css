@@ -18,3 +18,10 @@ body {
 	width: 400px;
 	margin: 0 auto;
 	float: left;
+	
+/***** Header *****/
+header {
+	height: 800px;
+	background: url('../img/header_pic.png');
+	background-size: cover;
+}
