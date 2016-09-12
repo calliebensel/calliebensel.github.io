@@ -12,14 +12,14 @@ body {
 	margin: 0 auto;
 }
 .half-width {
-	width: 400px;
+	width: 600px;
 	margin: 0 auto;
 	float: left;
 }
 .third-width {
-	width: 600px;
+	width: 400px;
 	margin: 0 auto;
-	float: left;
+	float: right;
 	
 /***** Header *****/
 header {
