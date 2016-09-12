@@ -3,10 +3,9 @@
 body {
   font-family: 'Lora', serif;
   color: black;
+  background-color: #e6ccff;
 }
-#header img {
-	text-align: center;
-}
+
 
 /***** GRID *****/
 .full-width {
