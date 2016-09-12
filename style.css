@@ -2,7 +2,7 @@
 
 body {
   font-family: 'Lora', serif;
-  color: #c2c2d6;
+  color: black;
 
 }
 
@@ -31,5 +31,9 @@ header {
 header h1 {
 	padding: 50px;
 	font-size: 30px;
-	color: black;
 }
+header h2 {
+	text-align: right;
+	font-size: 20px;
+}
+
