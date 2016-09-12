@@ -9,19 +9,19 @@ body {
 	width: 1200px;
 	margin: 0 auto;
 }
-.half-width {
-	width: 800px;
+.left-half {
+	width: 200px;
 	margin: 0 auto;
 	float: left;
 }
-.third-width {
-	width: 200px;
+.right-half {
+	width: 800px;
 	margin: 0 auto;
 	float: left;
 	
 /***** Header *****/
 header {
 	height: 800px;
-	background: url();
+	background: url(<a data-flickr-embed="true"  href="https://www.flickr.com/photos/35706596@N05/18165241318/in/album-72157653432000640/" title="IMG_2942"><img src="https://c7.staticflickr.com/1/274/18165241318_11015a0f77_z.jpg" width="640" height="427" alt="IMG_2942"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>);
 	background-size: cover;
 }
