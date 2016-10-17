@@ -67,7 +67,7 @@ body {
 .acf-right {
 	width: 400px;
 	margin: 0 auto;
-	float: left;
+	float: right;
 }
 .college {
 	width: 1200px;
@@ -81,7 +81,7 @@ body {
 .edu-right {
 	width: 400px;
 	margin: 0 auto;
-	float: left;
+	float: right;
 }
 .skills {
 	width: 1200px;
@@ -95,7 +95,7 @@ body {
 .skill-right {
 	width: 400px;
 	margin: 0 auto;
-	float: left;
+	float: right;
 }
 .other {
 	width: 1200px;
@@ -109,7 +109,7 @@ body {
 .other-right {
 	width: 400px;
 	margin: 0 auto;
-	float: left;
+	float: right;
 }
 
 	
