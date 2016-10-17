@@ -14,10 +14,11 @@ body {
 }
 .contact {
 	margin-right: 250px;
-	margin-bottom: 100px;
+	margin-bottom: 200px;
+	margin-top: 10px;
 	float: left;
 	clear: right;
-	border-bottom: 1px solid #000000;
+	
 	
 }
 .contact h1 {
@@ -32,8 +33,7 @@ body {
 
 	
 .section {
-	width: 1200px;
-	padding: 50px auto;
+	text-align: left;
 	clear: both;
 }
 
