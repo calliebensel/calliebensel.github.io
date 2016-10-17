@@ -51,6 +51,22 @@ body {
 	width: 800px;
 	margin: 0 auto;
 	float: right;
+}
+
+.acf {
+	width: 1200px;
+	margin: 0 auto;
+}
+.acf-left {
+	width: 400px;
+	margin: 0 auto;
+	float: left;
+}
+.acf-right {
+	width: 400px;
+	margin: 0 auto;
+	float: left;
+}
 	
 
 
