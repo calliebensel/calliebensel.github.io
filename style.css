@@ -14,9 +14,9 @@ body {
 }
 .contact {
 	margin: 20px;
-	font-size: 30px;
+	font-size: 20px;
 	float: right;
-	clear: right;
+	clear: both;
 	
 }
 
