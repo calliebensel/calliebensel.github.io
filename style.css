@@ -13,9 +13,10 @@ body {
 	float: left;
 }
 .contact {
-	margin-right: 250px;
+	margin-right: 450px;
 	margin-bottom: 200px;
 	margin-top: 10px;
+	margin-left: 20px;
 	float: left;
 	clear: right;
 	
@@ -35,6 +36,7 @@ body {
 .section {
 	text-align: left;
 	clear: both;
+	border-top: 1px solid #000000;
 }
 
 
