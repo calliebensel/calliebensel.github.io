@@ -8,19 +8,17 @@ body {
 
 /***** GRID *****/
 
-.header {
-	width: 1200px;
-	margin: 10px auto;
+.res {
+	text-align: left;
 }
 
-.image-left {
-	width: 400px auto;
-	padding: 20px;
-	float: left;
+.res-image {
+	margin: 10px;
+	display: inline;
 }
-.header-right {
-	width; 600px ;
-	float: right;
+.res-span {
+	margin: 10px;
+	display: block;
 }
 .badges {
 	display: inline;
