@@ -7,6 +7,26 @@ body {
 
 
 /***** GRID *****/
+
+.header {
+	width: 1200px;
+	margin: 10px auto;
+	border-bottom: 1px solid #000000
+}
+
+.image-left {
+	width: 590px;
+	padding: 20px;
+	float: left;
+}
+.header-right {
+	width; 590px;
+	padding: 20px;
+	float: left;
+}
+
+	
+
 .full-width {
 	width: 1200px;
 	margin: 0 auto;
