@@ -13,20 +13,17 @@ body {
 }
 
 .res-image {
-	margin: 10px;
+	margin: 20px;
 }
 .res-span {
-	margin: 10px;
+	margin: 20px;
 	display: block;
 	font-size: 20px;
+	text-align: left
 }
-.badges {
-	display: inline;
-	list-style: none;
-}
-.header h2, h3, h4 {
-	font-size: 20px
-}
+
+
+
 	
 
 	
@@ -65,8 +62,51 @@ body {
 	margin: 0 auto;
 	float: left;
 }
-	
+.college {
+	width: 1200px;
+	margin: 0 auto;
+}
+.edu-left {
+	width: 400px;
+	margin: 0 auto;
+	float: left;
+}
+.edu-right {
+	width: 400px;
+	margin: 0 auto;
+	float: left;
+}
+.skills {
+	width: 1200px;
+	margin: 0 auto;
+}
+.skill-left {
+	width: 400px;
+	margin: 0 auto;
+	float: left;
+}
+.skill-right {
+	width: 400px;
+	margin: 0 auto;
+	float: left;
+}
+.other {
+	width: 1200px;
+	margin: 0 auto;
+}
+.other-left {
+	width: 400px;
+	margin: 0 auto;
+	float: left;
+}
+.other-right {
+	width: 400px;
+	margin: 0 auto;
+	float: left;
+}
 
+	
+	
 
 	
 
