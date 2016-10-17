@@ -14,9 +14,10 @@ body {
 }
 .contact {
 	margin-right: 250px;
-	margin-bottom: 100px
+	margin-bottom: 100px;
 	float: left;
 	clear: right;
+	border-bottom: 1px solid #000000;
 	
 }
 .contact h1 {
