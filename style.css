@@ -41,7 +41,7 @@ body {
 .dero-right {
 	width: 800px;
 	margin: 0 auto;
-	float: right;
+	float: left;
 }
 
 .acf {
@@ -56,7 +56,7 @@ body {
 .acf-right {
 	width: 400px;
 	margin: 0 auto;
-	float: right;
+	float: left;
 }
 .college {
 	width: 1200px;
@@ -70,7 +70,7 @@ body {
 .edu-right {
 	width: 400px;
 	margin: 0 auto;
-	float: right;
+	float: left;
 }
 .skills {
 	width: 1200px;
@@ -84,7 +84,7 @@ body {
 .skill-right {
 	width: 400px;
 	margin: 0 auto;
-	float: right;
+	float: left;
 }
 .other {
 	width: 1200px;
@@ -98,7 +98,7 @@ body {
 .other-right {
 	width: 400px;
 	margin: 0 auto;
-	float: right;
+	float: left;
 }
 
 	
