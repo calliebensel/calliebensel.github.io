@@ -19,9 +19,8 @@ body {
 	float: left;
 }
 .header-right {
-	width; 400px auto;
-	padding: 20px;
-	float: left;
+	width; 600px ;
+	float: right;
 }
 .badges {
 	display: inline;
