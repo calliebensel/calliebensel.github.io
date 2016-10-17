@@ -9,14 +9,14 @@ body {
 /***** GRID *****/
 
 .image {
-	margin: 10px;
+	margin: 20px;
 	float: left;
 }
 .contact {
-	margin-right: 350px;
-	margin-bottom: 200px;
-	margin-top: 10px;
-	margin-left: 30px;
+	margin-right: 340px;
+	margin-bottom: 100px;
+	margin-top: 20px;
+	margin-left: 40px;
 	float: left;
 	clear: right;
 	
