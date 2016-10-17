@@ -8,19 +8,15 @@ body {
 
 /***** GRID *****/
 
-.res {
-	text-align: left;
-}
-
-.res-image {
+.image {
 	margin: 20px;
 	float: left;
 }
-.res-span {
+.contact {
 	margin: 20px;
-	display: block;
 	font-size: 30px;
 	float: right;
+	clear: right;
 	
 }
 
