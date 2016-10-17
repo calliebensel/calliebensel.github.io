@@ -24,6 +24,14 @@ body {
 	padding: 20px;
 	float: left;
 }
+.badges {
+	display: inline;
+	list-style: none;
+}
+.header h2, h3, h4 {
+	font-size: 20px
+}
+	
 
 	
 
