@@ -14,12 +14,14 @@ body {
 
 .res-image {
 	margin: 20px;
+	float: left;
 }
 .res-span {
 	margin: 20px;
 	display: block;
-	font-size: 20px;
-	text-align: left
+	font-size: 30px;
+	float: right;
+	
 }
 
 
@@ -30,12 +32,13 @@ body {
 .section {
 	width: 1200px;
 	padding: 50px auto;
+	clear: both;
 }
 
 
 .dero {
 	width: 1200px;
-	margin: 0 auto;
+	margin: 20px;
 }
 .dero-left {
 	width: 400px;
@@ -50,7 +53,7 @@ body {
 
 .acf {
 	width: 1200px;
-	margin: 0 auto;
+	margin:  20px;
 }
 .acf-left {
 	width: 400px;
@@ -64,7 +67,7 @@ body {
 }
 .college {
 	width: 1200px;
-	margin: 0 auto;
+	margin: 20px;
 }
 .edu-left {
 	width: 400px;
@@ -78,7 +81,7 @@ body {
 }
 .skills {
 	width: 1200px;
-	margin: 0 auto;
+	margin: 20px;
 }
 .skill-left {
 	width: 400px;
@@ -92,7 +95,7 @@ body {
 }
 .other {
 	width: 1200px;
-	margin: 0 auto;
+	margin: 20px;
 }
 .other-left {
 	width: 400px;
