@@ -15,12 +15,12 @@ body {
 }
 
 .image-left {
-	width: 590px;
+	width: 400px auto;
 	padding: 20px;
 	float: left;
 }
 .header-right {
-	width; 590px;
+	width; 400px auto;
 	padding: 20px;
 	float: left;
 }
@@ -39,7 +39,7 @@ body {
 .right-half {
 	width: 800px;
 	margin: 0 auto;
-	float: left;
+	float: right;
 	
 
 
