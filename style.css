@@ -9,17 +9,21 @@ body {
 /***** GRID *****/
 
 .image {
-	margin: 20px;
+	margin: 10px;
+	clear: both;
 	float: left;
 }
 .contact {
-	margin: 20px;
-	font-size: 20px;
+	margin: 10px;
 	float: right;
 	clear: both;
-	
 }
-
+.contact h1 {
+	font-size: 20px;
+}
+.contact h2, h3, h4 {
+	font-size: 10px;
+}
 
 
 	
