@@ -14,6 +14,7 @@ body {
 #image {
 	margin: 20px;
 	float: left;
+	width: 75%;
 }
 #contact {
 	margin-right: 340px;
@@ -22,6 +23,7 @@ body {
 	margin-left: 40px;
 	float: right;
 	clear: right;
+	width: 25%
 	
 	
 }
